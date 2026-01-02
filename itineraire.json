@@ -1,0 +1,188 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Îles Féroé : Entre Fjords et Sérénité",
+  "budget_total": "1500-1800 €/pers",
+  "duree": "4 jours",
+  "temps_vol": "2h40 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas sur Vágar",
+      "legende": "Après un vol direct depuis Paris, atterrissez sur l'île de Vágar, porte d'entrée des Féroé. Prenez le temps de vous installer et de découvrir les charmes paisibles des villages côtiers. Une première immersion douce dans l'atmosphère unique de l'archipel vous attend.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Vágar</strong>: Récupération du véhicule de location et route vers votre hébergement pour une installation en douceur.",
+        "<strong>🚶‍♂️ Balade à Sørvágur</strong>: Découvrez ce charmant village de pêcheurs, ses maisons colorées et son port tranquille, idéal pour une première immersion relaxante.",
+        "<strong>🌅 Coucher de soleil sur le lac Sørvágsvatn (Leitisvatn)</strong>: Profitez d'une vue imprenable sur le \"lac suspendu\" au-dessus de l'océan, une merveille naturelle apaisante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0637, "lng": -7.2778 }
+        },
+        {
+          "nom_recherche": "Sørvágur, Vágar",
+          "categorie": "Village",
+          "coords": { "lat": 62.0711, "lng": -7.3000 }
+        },
+        {
+          "nom_recherche": "Lac Sørvágsvatn, Vágar",
+          "categorie": "Lac",
+          "coords": { "lat": 62.0460, "lng": -7.2200 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La location de voiture est essentielle pour explorer les Féroé. Réservez à l'avance, surtout en haute saison, pour garantir la disponibilité."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Découverte de Streymoy et Tórshavn",
+      "legende": "Explorez l'île principale de Streymoy, ses paysages dramatiques et sa capitale, Tórshavn. Flânez dans les rues historiques et imprégnez-vous de l'atmosphère unique de la plus petite capitale du monde. Une journée entre nature sauvage et patrimoine culturel.",
+      "lieu": "Streymoy, Tórshavn",
+      "activites": [
+        "<strong>🚗 Route panoramique vers Tórshavn</strong>: Traversez des paysages époustouflants, avec des arrêts photos improvisés le long des fjords et des vallées verdoyantes.",
+        "<strong>🚶‍♀️ Exploration de Tórshavn</strong>: Visitez le quartier historique de Tinganes avec ses maisons en bois et toits en herbe, puis le port animé et ses boutiques.",
+        "<strong>🏛️ Visite de Kirkjubøur</strong>: Découvrez ce site historique majeur avec sa cathédrale inachevée et la plus ancienne ferme en bois habitée du monde, un lieu chargé d'histoire et de calme."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tinganes, Tórshavn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 62.0090, "lng": -6.7720 }
+        },
+        {
+          "nom_recherche": "Port de Tórshavn, Tórshavn",
+          "categorie": "Port",
+          "coords": { "lat": 62.0070, "lng": -6.7700 }
+        },
+        {
+          "nom_recherche": "Kirkjubøur, Streymoy",
+          "categorie": "Site historique",
+          "coords": { "lat": 61.9930, "lng": -6.7930 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Astuce Conduite",
+          "texte": "Les routes sont bien entretenues mais souvent étroites et sinueuses. Conduisez prudemment et respectez les limites de vitesse, les moutons ont la priorité!"
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🐑",
+      "titre": "Charme des Villages et Paysages d'Eysturoy",
+      "legende": "Aventurez-vous sur l'île d'Eysturoy, réputée pour ses villages pittoresques et ses formations rocheuses emblématiques. Une journée dédiée à la contemplation et aux balades douces, loin de l'agitation, au cœur d'une nature préservée et inspirante.",
+      "lieu": "Eysturoy",
+      "activites": [
+        "<strong>🚗 Route vers Gjógv</strong>: Traversez le tunnel sous-marin et rejoignez ce village isolé, célèbre pour son port naturel unique et ses vues sur l'océan.",
+        "<strong>🚶‍♂️ Balade à Gjógv</strong>: Profitez d'une promenade relaxante le long des falaises et dans le village, en admirant les maisons traditionnelles et la sérénité des lieux.",
+        "<strong>🗿 Observation de Risin og Kellingin</strong>: Admirez les célèbres rochers du Géant et de la Vieille Dame depuis la côte près d'Eiði, des légendes pétrifiées dans le paysage féringien."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gjógv, Eysturoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.3160, "lng": -6.9300 }
+        },
+        {
+          "nom_recherche": "Risin og Kellingin, Eiði",
+          "categorie": "Formation rocheuse",
+          "coords": { "lat": 62.2960, "lng": -7.1000 }
+        },
+        {
+          "nom_recherche": "Eiði, Eysturoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.2900, "lng": -7.1000 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Tunnels Payants",
+          "texte": "Les tunnels sous-marins sont payants aux Féroé. Le coût est généralement déduit automatiquement si vous avez loué une voiture, mais vérifiez les modalités avec votre loueur."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Panoramas et Départ",
+      "legende": "Profitez d'une dernière matinée pour admirer les paysages féringiens avant de prendre votre vol retour. Une dernière balade ou un café avec vue pour clore ce voyage apaisant et emporter avec vous des souvenirs inoubliables de ces îles du bout du monde.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>🚶‍♀️ Balade autour de Bøur et Gásadalur</strong>: Visitez ces villages emblématiques de Vágar, avec leurs vues imprenables sur Drangarnir et la majestueuse cascade de Múlafossur.",
+        "<strong>☕ Pause café avec vue</strong>: Savourez un dernier moment de quiétude dans un café local, en contemplant les paysages avant de rejoindre l'aéroport.",
+        "<strong>🛫 Départ de l'aéroport de Vágar</strong>: Restitution du véhicule et vol retour vers Paris, la tête pleine de souvenirs nordiques."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Bøur, Vágar",
+          "categorie": "Village",
+          "coords": { "lat": 62.0830, "lng": -7.3600 }
+        },
+        {
+          "nom_recherche": "Gásadalur, Vágar",
+          "categorie": "Village",
+          "coords": { "lat": 62.1000, "lng": -7.4300 }
+        },
+        {
+          "nom_recherche": "Cascade de Múlafossur, Gásadalur",
+          "categorie": "Cascade",
+          "coords": { "lat": 62.1050, "lng": -7.4350 }
+        },
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0637, "lng": -7.2778 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs",
+          "texte": "N'oubliez pas d'acheter quelques pulls en laine de mouton féringienne, un souvenir authentique et chaleureux de votre voyage."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 422 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "100-150 €/pers (location voiture + essence + tunnels)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "320-400 €/pers (restaurants 3* ou équivalent)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "450-600 €/pers (hôtels 3* ou guesthouses)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "50-100 €/pers (activités gratuites majoritaires, quelques payantes)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Juin à Août", "symbole": "☀️" },
+    { "titre": "Mai et Septembre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Le temps est très changeant aux Féroé. Prévoir des couches de vêtements, un imperméable et des chaussures de marche robustes, même en été.", "symbole": "🌦️" },
+    { "titre": "La monnaie est la Couronne Danoise (DKK). Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile dans les petits villages.", "symbole": "💳" },
+    { "titre": "Permis français suffisant. Conduite à droite. Les routes sont souvent étroites et les moutons ont la priorité. Respectez les limites de vitesse.", "symbole": "🚗" },
+    { "titre": "Bonne couverture mobile et Wi-Fi disponible dans la plupart des hébergements et cafés. L'anglais est couramment parlé.", "symbole": "📶" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-07-15/2026-07-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeisislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Comparateur de location de voiture", "url": "https://www.rentalcars.com/", "symbole": "🚗" },
+    { "legende": "Météo locale", "titre": "Météo aux Féroé (Yr.no)", "url": "https://www.yr.no/en/forecast/daily-table/1-261073/Faroe%20Islands/V%C3%A1gar%20Airport", "symbole": "🌤️" }
+  ]
+}
